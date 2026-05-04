@@ -13,6 +13,12 @@ Se realizo la limpieza en Excel y lo renombramos como:
 Se hicieron calculos estadísticos y tablas dinámicas en Excel y lo renombramos como:
 (ANALYSIS) Montgomery_Fleet_Equipment_Inventory_FA
 
+# Análisis de datos
+Se consultó la base de datos:
+https://community.ibm.com/accelerators/?context=analytics&type=Data&product=Cognos%20Analytics&industry=Automotive
+En excel se realizó un reporte utilizando tablas dinámicas y gráficas dinámicas para presentar la información relacionada con las ventas. 
+Esta información está en el archivo: 
+CarSalesModel.xlsx
 
 # Visualización de datos utilizando Looker Studio  
 Utilizando el dataset de dominio público de:
