@@ -15,9 +15,9 @@ Se hicieron calculos estadísticos y tablas dinámicas en Excel y lo renombramos
 
 # Análisis de datos
 Se consultó la base de datos:
-https://community.ibm.com/accelerators/?context=analytics&type=Data&product=Cognos%20Analytics&industry=Automotive
+https://community.ibm.com/accelerators/?context=analytics&type=Data&product=Cognos%20Analytics&industry=Automotive \\
 En excel se realizó un reporte utilizando tablas dinámicas y gráficas dinámicas para presentar la información relacionada con las ventas. 
-Esta información está en el archivo: 
+Esta información está en el archivo: \\
 CarSalesModel.xlsx
 
 # Visualización de datos utilizando Looker Studio  
