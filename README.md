@@ -13,23 +13,10 @@ Se realizo la limpieza en Excel y lo renombramos como:
 Se hicieron calculos estadísticos y tablas dinámicas en Excel y lo renombramos como:
 (ANALYSIS) Montgomery_Fleet_Equipment_Inventory_FA
 
-//////// Limpieza de datos realistas con Python ////////////
-
-
-Para aumentar la complejidad de la tarea. Se creo un dataset sintético que simula las ventas de un e-comerce con ayuda de una IA, en este dataset se incluyen los tres archivos:
-orders_dirty.cvs
-products_dirty.cvs
-customers_dirty.cvs
-
-En Python se desarrolló el código del archivo "Realistic data cleaning.ipynb".
-En este archivo se tiene una libreta en Jupyter que muestra detalladamente el proceso de limpiza de datos y el análisis de KPIs de una empresa de e-comerce.
-El resultados son los archivos: 
-orders_cleaned.cvs
-products_cleaned.cvs
-
 
 /////////    Visualización de datos utilizando Looker Studio  ///////////
 Utilizando el dataset de dominio público de:
+
 https://accelerator.ca.analytics.ibm.com/bi/?perspective=authoring&pathRef=.public_folders%2FIBM%2BAccelerator%2BCatalog%2FContent%2FDAT00142&id=i22898C2A4DD748F79E0FC2BD017F4FE8&objRef=i22898C2A4DD748F79E0FC2BD017F4FE8&action=run&format=HTML&cmPropStr=%7B"id"%3A"i22898C2A4DD748F79E0FC2BD017F4FE8"%2C"type"%3A"reportView"%2C"defaultName"%3A"DAT00142"%2C"permissions"%3A%5B"execute"%2C"read"%2C"traverse"%5D%7D
 
 Se generó el archivo Sales.pdf donde se analizan las tendencias y se realizaron visualizaciones.
