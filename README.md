@@ -31,6 +31,7 @@ products_cleaned.cvs
 /////////    Visualización de datos utilizando Looker Studio  ///////////
 Utilizando el dataset de dominio público de:
 https://accelerator.ca.analytics.ibm.com/bi/?perspective=authoring&pathRef=.public_folders%2FIBM%2BAccelerator%2BCatalog%2FContent%2FDAT00142&id=i22898C2A4DD748F79E0FC2BD017F4FE8&objRef=i22898C2A4DD748F79E0FC2BD017F4FE8&action=run&format=HTML&cmPropStr=%7B"id"%3A"i22898C2A4DD748F79E0FC2BD017F4FE8"%2C"type"%3A"reportView"%2C"defaultName"%3A"DAT00142"%2C"permissions"%3A%5B"execute"%2C"read"%2C"traverse"%5D%7D
+
 Se generó el archivo Sales.pdf donde se analizan las tendencias y se realizaron visualizaciones.
 customers_cleaned.cvs
 
